@@ -57,7 +57,6 @@ result.addEventListener('click', () => {
 
         }
     }
-    //я не понял, почему value начало принимать типом string
 
     value.value = String(res[-1]);
 
